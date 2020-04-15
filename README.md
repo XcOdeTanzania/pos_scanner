@@ -1,6 +1,6 @@
 # pos_scanner
 
-A new Flutter project.
+A POS SCANNER.
 
 ## Getting Started
 
